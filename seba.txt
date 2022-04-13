@@ -4,4 +4,4 @@ Edad: 36 años
 
 Estatura: 1.70
 
-Hobby: Videojuegos, música
+Hobby: Videojuegos, música, aprender en Platzi
