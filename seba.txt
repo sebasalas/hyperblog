@@ -3,3 +3,5 @@ Nombre: Sebastián Salas Muñoz
 Edad: 36 años
 
 Estatura: 1.70
+
+Hobby: Videojuegos, música
